@@ -32,7 +32,7 @@
 
   - <b> Promote the server to domain control </b>
      
-     - Select "promote the server to domain control in the dialog box
+     - Select "promote the server to domain control" in the dialog box
 
     <img src="https://sigmawire.net/i/03/InqGNH.png" height="40%" width="40%" alt="VirtualBox set up wizard"/>  
      
